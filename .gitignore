@@ -1,0 +1,5 @@
+webapp/build
+webapp/node_modules
+
+go.sum
+mywebsite
